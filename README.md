@@ -10,11 +10,11 @@ Managing teams app
 
 │
 
-│ ├── Member.cs
+  │ ├── Member.cs
 
-│
+  │
 
-│ └── Team.cs
+  │ └── Team.cs
 
 │
 
